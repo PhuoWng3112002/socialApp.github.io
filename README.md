@@ -27,5 +27,6 @@ Appplication Interfaces:
 
 4. Resgister
 
-   
-![z4577833239828_b4fbe3e392b800cd88775e7b1d22269f](https://github.com/PhuoWng3112002/socialApp.github.io/assets/107473716/b75ef85a-fbc7-4388-b6eb-c3e7ec7bcbfd)
+
+![z4577833159029_0beec3bf9c54435565dac60a57229007](https://github.com/PhuoWng3112002/socialApp.github.io/assets/107473716/bf9dc1c6-479d-423c-bd94-10abc83f6bfa)
+
